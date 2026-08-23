@@ -1,5 +1,6 @@
 namespace Hooks
 {
+	/*
 	class hkGetDLCMasterFile
 	{
 	private:
@@ -55,6 +56,7 @@ namespace Hooks
 		inline static REL::Hook _IsDLCMasterOrCCFile6{ REL::ID(442776), 0x0A2, IsDLCMasterOrCCFile };
 		inline static REL::Hook _IsDLCMasterOrCCFile7{ REL::ID(442776), 0x152, IsDLCMasterOrCCFile };
 	};
+	*/
 
 	/*
 	class hkGetFormByNumericID
